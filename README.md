@@ -6,6 +6,8 @@ Note that this container is brittle and is built only to allow for CI testing of
 
 Setting `ansible_python_interpreter` to `usr/bin/python3`, still getting Python 2 issues on Centos 7 here so :shrug: we'll see if I resolve this in the future.
 
+![pip 2 error](pip2.png)
+
 ## Tags
 
   - `latest`: Latest stable version of Ansible, on Python 3.10.
